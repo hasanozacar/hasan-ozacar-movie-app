@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hasan-ozacar-movie-app/static/css/main.11271e5c.css",
+    "main.js": "/hasan-ozacar-movie-app/static/js/main.ede7b1b0.js",
+    "index.html": "/hasan-ozacar-movie-app/index.html",
+    "main.11271e5c.css.map": "/hasan-ozacar-movie-app/static/css/main.11271e5c.css.map",
+    "main.ede7b1b0.js.map": "/hasan-ozacar-movie-app/static/js/main.ede7b1b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11271e5c.css",
+    "static/js/main.ede7b1b0.js"
+  ]
+}
